@@ -1,4 +1,4 @@
-Title: Branching
+Title:  Branching
 Overview:
 
 Branching is the term used to create branches within Git, often used to support testing and development of new features.
